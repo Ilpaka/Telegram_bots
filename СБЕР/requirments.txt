@@ -1,0 +1,10 @@
+pandas                
+streamlit             
+plotly-express        
+python-dateutil 
+statsmodels
+scikit-learn
+tensorflow   
+streamlit_plotly_events   
+prophet
+plotly
